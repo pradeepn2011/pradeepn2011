@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeep.n possess 8+ yrs exceptional exp. in EA Applications, 1 yr exp. in Data Science 
+- 👋 Hi, I’m @pradeep.n possess 9+ yrs exceptional exp. in EA Applications, 1 yr exp. in Data Science 
 - 👀 I’m interested in ... Data Science projects
 - 🌱 Udemy Certified ... Data Science 
 - 🌱 I’m currently learning ... Python and Data Science relevant topics
