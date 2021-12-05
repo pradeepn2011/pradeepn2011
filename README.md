@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradeep.n, with 8+ yrs exceptional exp. in Enterprise Applications(JAVA/J2EE), 1+ yr exp. in Data Science/Analytics 
 - 👀 I’m interested in ... Data Science projects
-- 🌱 Udemy Certified ... Data Science 
+- 🌱 Certified Data Scientist  
 - 🌱 I’m currently learning ... Python and Data Science relevant topics
 - 💞️ I’m looking to collaborate on ... Data Science/Analyst projects only
 - 📫 How to reach me ... pradeepn2011@gmail.com
