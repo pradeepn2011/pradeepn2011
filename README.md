@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeep.n, with 8+ yrs exceptional exp. in Enterprise Applications(JAVA/J2EE), 1+ yr exp. in Data Science/Analytics 
+- 👋 Hi, I’m @pradeep.n, close to 10 years of exceptional exp. in Enterprise Applications(JAVA/J2EE), 1+ yr exp. in Data Science/Analytics 
 - 👀 I’m interested in ... Data Science projects
 - 🌱 I am passionate and Certified Data Scientist  
 - 🌱 I’m currently learning ... Python and Data Science relevant topics
